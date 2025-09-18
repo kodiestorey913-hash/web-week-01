@@ -1,0 +1,22 @@
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+body
+{
+    background-color: rgb(0, 250, 0);
+}
+th, td
+{
+    text-align: center;
+    background-color: aliceblue;
+    color: black;
+   
+}
+img
+{
+    border-radius: 10px;
+}
+
+
